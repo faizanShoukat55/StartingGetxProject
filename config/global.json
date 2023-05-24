@@ -1,5 +1,5 @@
 {
-  "laravel_base_url": "https://mazdoorlab.com/admin/",
+  "laravel_base_url": "",
   "api_path": "api/",
   "received": 1,
   "accepted": 10,
